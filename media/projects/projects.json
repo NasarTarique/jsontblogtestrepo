@@ -6,6 +6,55 @@
 						"Description":"A Torrent Client CLI written in python",
 						"Github":"https://github.com/NasarTarique/torrent_py",
 						"Website":""
+				},
+				{
+						"id":"1",
+						"Name":"Plascovid",
+						"Description":"A website for managing the donations of plasma , tracking nearby hospitals where plasma is available , doing a covid self assesment test.",
+						"Github":"https://github.com/NasarTarique/Plascovid",
+						"Website":"https://postgres-app1507.herokuapp.com/home/"
+				},
+				{
+						"id":"2",
+						"Name":"AutoQuill",
+						"Description":"A Web application where you can record your virtual meetings and lectures and get the notes and summary which are generated from the meeting audio and access them on the website",
+						"Github":"https://github.com/NasarTarique/",
+						"Website":""
+				},
+				{
+						"id":"3",
+						"Name":"Media-bot",
+						"Description":"A Telegram bot that gives daily new update",
+						"Github":"https://github.com/NasarTarique/Media-bot",
+						"Website":""
+				},
+				{
+						"id":"4",
+						"Name":"Xmeme",
+						"Description":"A simple website for uploading memes built using Reactjs and Django REST and PostgreSQL",
+						"Github":"https://github.com/NasarTarique/Xmeme",
+						"Website":"https://crio-xmeme15.herokuapp.com/home/"
+				},
+				{
+						"id":"5",
+						"Name":"BookHunt",
+						"Description":"A website for searching books and storing there the search query built using Reactjs and Express and mongodb",
+						"Github":"https://github.com/NasarTarique/",
+						"Website":"https://sheltered-fortress-52712.herokuapp.com/"
+				},
+				{
+						"id":"6",
+						"Name":"Epl-Scraper",
+						"Description":"A scraper to scrape the data of all premier league players ",
+						"Github":"https://github.com/NasarTarique/epl-stats-scraper",
+						"Website":""
+				},
+				{
+						"id":"7",
+						"Name":"Dotfiles",
+						"Description":"Not a Project , just my linux dotfiles - awesomewm, tmux, nvim ",
+						"Github":"https://github.com/NasarTarique/dotfiles",
+						"Website":""
 				}
 		]
 }
